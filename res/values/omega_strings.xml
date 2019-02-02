@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> 
+<?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2018 OmegaROM
       Copyright (C) 2018 Project dotOS
@@ -23,3 +23,5 @@
     <string name="filter_substratum_apps">Substratum overlays</string>
     <string name="menu_show_substratum">Show overlays</string>
     <string name="menu_hide_substratum">Hide overlays</string>
+
+</resources>

@@ -3395,7 +3395,7 @@
         <!-- Collider Settings -->
         <activity android:name=".Settings$ColliderSettingsActivity"
             android:label="@string/collider_settings_title"
-	    android:icon="@drawable/ic_homepage_nitrogen"
+	    android:icon="@drawable/ic_homepage_system_dashboard"
             android:taskAffinity="com.android.settings">
             <intent-filter android:priority="1">
                 <action android:name="com.collider.setings.ColliderSettings" />

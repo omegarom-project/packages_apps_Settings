@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2018 OmegaROM
-      Copyright (C) 2018 Project dotOS
+     Copyright (C) 2018 Project dotOS
 	 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -32,5 +32,15 @@
     <string name="collider_settings_title">Collider Settings</string>
     <!-- App Summary -->
     <string name="collider_settings_summary">Tune flight of particle</string>
+
+    <!-- About phone screen, ViperOS version -->
+    <string name="viper_version">OmegaROM version</string>
+    <string name="viper_version_default">Unknown</string>
+    <string name="keywords_viper_version">OmegaROM version</string>
+
+     <!-- About phone screen, build date -->
+    <string name="build_date">Build date</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+    <string name="keywords_build_date">build date, build info</string>
 </resources>
 

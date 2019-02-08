@@ -19,7 +19,7 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_USE_AAPT2 := true
 
 LOCAL_SRC_FILES := $(call all-java-files-under, src)
-LOCAL_SRC_FILES += $(call all-java-files-under, ../NitrogenSettings/src)
+LOCAL_SRC_FILES += $(call all-java-files-under, ../ColliderSettings/src)
 
 LOCAL_STATIC_ANDROID_LIBRARIES := \
     android-slices-builders \
@@ -52,7 +52,7 @@ LOCAL_RESOURCE_DIR := $(LOCAL_PATH)/res \
     frameworks/support/v14/preference/res \
     frameworks/support/v7/appcompat/res \
     frameworks/support/v7/recyclerview/res \
-    packages/apps/NitrogenSettings/res
+    packages/apps/ColliderSettings/res
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 

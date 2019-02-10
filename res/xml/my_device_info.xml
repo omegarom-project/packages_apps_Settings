@@ -122,7 +122,7 @@
         android:key="omega_version"
         android:order="32"
         android:title="@string/omega_version"
-        settings:keywords="@string/keywords_viper_version"
+        settings:keywords="@string/keywords_omega_version"
         android:summary="@string/omega_version_default"/>
 
     <!-- Build date -->

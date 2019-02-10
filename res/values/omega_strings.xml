@@ -34,9 +34,9 @@
     <string name="collider_settings_summary">Tune flight of particle</string>
 
     <!-- About phone screen, ViperOS version -->
-    <string name="viper_version">OmegaROM version</string>
-    <string name="viper_version_default">Unknown</string>
-    <string name="keywords_viper_version">OmegaROM version</string>
+    <string name="omega_version">OmegaROM version</string>
+    <string name="omega_version_default">Unknown</string>
+    <string name="keywords_omega_version">OmegaROM version</string>
 
      <!-- About phone screen, build date -->
     <string name="build_date">Build date</string>

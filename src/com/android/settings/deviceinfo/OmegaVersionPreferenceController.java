@@ -39,7 +39,7 @@ public class OmegaVersionPreferenceController extends AbstractPreferenceControll
         PreferenceControllerMixin, LifecycleObserver, OnResume {
 
     private static final String TAG = "OmegaVersionPref";
-    private static final String KEY_VIPER_VERSION = "omega_version";
+    private static final String KEY_OMEGA_VERSION = "omega_version";
 
     private final UserManager mUserManager;
 
